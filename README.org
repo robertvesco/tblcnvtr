@@ -1,0 +1,9 @@
+* Why? 
+
+I often find myself with small tabular style data that I need to convert from one format to another. 
+
+For example, 
+- [ ] Copy a region from excel and paste it into an org mode tbl
+- [ ] Convert one delimited type to another (tab -> csv -> pipe)
+- [ ] Convert a column of data from a shell command (like git status) to a row that can be used in another
+- [ ] create literal lists, vectors, matrics in python and R for creating test data and examples 
